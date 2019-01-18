@@ -7,7 +7,10 @@ white = (255,255,255)
 red = (255,0,0)
 background_color = (85,85,236)
 
+
+
 def main():
+        """Funkcja uruchamiajaca funkcje main oraz ustawiajaca komponenty menu"""
         pygame.init()
 
         screen = pygame.display.set_mode((600,480))

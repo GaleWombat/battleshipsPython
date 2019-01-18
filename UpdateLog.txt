@@ -3,6 +3,7 @@ Naprawione błędy:
 - dodano krótką instrukcję i objaśnienia w poszczególnych etapach gry
 - zmieniono kolor zatopionych statków z bordowego na fioletowy, aby był bardziej widoczny
 - opis projektu został wzbogacony o referencje do poradników z których korzystałem
+- klasy, metody i funckje zostały wzbogacone o opisy
 - gra po próbie ułożenia statku w złym miejscu czeka na położenie statku na poprawnym miejscu,
 zamiast pomijać źle położony statek
 ----------------------------------------------------------------------------------------------------
